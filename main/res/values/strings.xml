@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Useful Tool</string>
+    <string-array name="units">
+        <item>Length</item>
+        <item>Temperature</item>
+        <item>Volume</item>
+        <item>Number</item>
+        <item>Data Storage</item>
+        <item>Area</item>
+        <item>Weight</item>
+        <item>Time</item>
+        <item>Exchange Rate</item>
+    </string-array>
+    <string-array name="length">
+        <item>cm</item>
+        <item>m</item>
+        <item>inch</item>
+        <item>foot</item>
+        <item>km</item>
+        <item>mile</item>
+        <item>yard</item>
+        <item>dm</item>
+        <item>light year</item>
+        <item>mm</item>
+        <item>nm</item>
+    </string-array>
+    <string-array name="area">
+        <item>cm^2</item>
+        <item>m^2</item>
+        <item>inch^2</item>
+        <item>foot^2</item>
+        <item>km^2</item>
+        <item>acre</item>
+        <item>dm^2</item>
+        <item>mm^2</item>
+        <item>mile^2</item>
+        <item>yard^2</item>
+    </string-array>
+    <string-array name="volume">
+        <item>cm^3</item>
+        <item>m^3</item>
+        <item>inch^3</item>
+        <item>foot^3</item>
+        <item>km^3</item>
+        <item>liter</item>
+        <item>milliliter</item>
+        <item>gallon</item>
+        <item>quart</item>
+        <item>pint</item>
+        <item>teaspoon</item>
+        <item>tablespoon</item>
+    </string-array>
+    <string-array name="temperature">
+        <item>C</item>
+        <item>K</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="time">
+        <item>millisecond</item>
+        <item>second</item>
+        <item>minute</item>
+        <item>hour</item>
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
+    </string-array>
+    <string-array name="data_storage">
+        <item>BIT</item>
+        <item>BYTE</item>
+        <item>WORD</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>TB</item>
+        <item>PB</item>
+    </string-array>
+    <string-array name="weight">
+        <item>g</item>
+        <item>kg</item>
+        <item>mg</item>
+        <item>t</item>
+        <item>ounce</item>
+        <item>pound</item>
+        <item>carat</item>
+    </string-array>
+    <string-array name="number">
+        <item>binary</item>
+        <item>decimal</item>
+    </string-array>
+    <string-array name="exchange_rate">
+        <item>CNY</item>
+        <item>CAD</item>
+        <item>USD</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>EUR</item>
+        <item>EBP</item>
+        <item>XAG</item>
+        <item>XAU</item>
+    </string-array>
+</resources>
